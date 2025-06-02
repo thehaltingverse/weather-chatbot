@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set your GitHub repo URL here
-GITHUB_REPO_URL="https://github.com/thehaltingverse/weatherChatbot.git"
+GITHUB_REPO_URL="git@github.com:thehaltingverse/weatherChatbot.git"
 
 # Initialize git if not already
 if [ ! -d .git ]; then
